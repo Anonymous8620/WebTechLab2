@@ -1,0 +1,3 @@
+default:
+	./mvnw clean install -U -DskipTests
+	./mvnw spring-boot:run
